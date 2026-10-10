@@ -3,7 +3,7 @@
 multidisciplinary engineer & aspiring cryptid.\
 building @ [amber.systems](https://amber.systems) · teaching @ [UEA CMP](https://www.uea.ac.uk/about/school-of-computing-sciences)
 
-i work across software, infrastructure, networks, and security.
+i work across software, infrastructure, networks, and security.\
 i like understanding how things work, making them talk to each other, and changing the bits that get in the way.
 
 <picture>
